@@ -3,7 +3,7 @@
 # Setup
 title:               Blog.
 tagline:             'blog'
-description:         'blog'
+description:         'Blog.'
 url:                 'http://maybedy.github.io'
 baseurl:             '/'
 

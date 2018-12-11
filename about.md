@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-My name is Doyun Kim.
+My name is doyun kim.
